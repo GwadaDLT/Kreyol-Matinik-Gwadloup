@@ -1,5 +1,5 @@
 # Kreyol-Matinik-Gwadloup
-Project Title and Description
+1. Project Title and Description
 NLP project related to low-resource language translation, Kreyol Matinik, and Kreyol Gwadloup, into English and Creating a well-structured README is crucial for your NLP translation project on GitHub. It serves as the first point of reference for users and contributors. Here's a plan for what to include in your project's README:
 2. **Table of Contents**
 3. **Project Overview**:
