@@ -1,6 +1,6 @@
 # Kreyol-Matinik-Gwadloup
 1. **Project Title and Description**
-.NLP project related to low-resource language translation, Kreyol Matinik, and Kreyol Gwadloup, into English and French.
+a.NLP project related to low-resource language translation, Kreyol Matinik, and Kreyol Gwadloup, into English and French.
 
 2. **Table of Contents**
 3. **Project Overview**
