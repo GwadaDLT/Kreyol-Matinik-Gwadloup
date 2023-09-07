@@ -1,2 +1,2 @@
 # Kreyol-Matinik-Gwadloup
-AI AN
+NLP project related to low-resource language translation, Kreyol Matinik, and Kreyol Gwadloup, into English and French.
