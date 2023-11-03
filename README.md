@@ -34,5 +34,11 @@ NLP project related to low-resource language translation, Kreyol Matinik, and Kr
 20. **Appendix**:
 
 3. Project Overview
-People in Guadeloupe and Martinique and any aid organizations want to understand what are the requests following a sudden onset disaster in order to better plan for future disaster in these islands.
+People in Guadeloupe and Martinique 
+and any aid organizations want to 
+understand what are the requests 
+following a sudden onset disaster 
+in order to answer quickly and 
+better plan for future disaster 
+in these islands.
 
